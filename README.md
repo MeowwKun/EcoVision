@@ -1,6 +1,6 @@
 # EcoVision
 
-![EcoVision Box](EcoVision Promo/EcoVision Promo-Cover.jpg)
+![EcoVision Box](EcoVision%20Promo/EcoVision%20Promo-Cover.jpg)
 
 EcoVision is an interactive recycling website integrated with a custom Arduino-based smart box. Users can scan plastic bottles, and the box will open to recycle the bottle. Points are awarded based on the type of bottle and whether it is crushed before recycling, encouraging sustainable behavior.
 
