@@ -1,0 +1,14 @@
+# Python / ML env
+Model/eco-vision-env/
+__pycache__/
+*.pyc
+
+# Node / Web (if any)
+node_modules/
+.env
+.env.*
+
+# OS / editor
+.vscode/
+.vs/
+.DS_Store
